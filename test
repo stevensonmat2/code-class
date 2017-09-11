@@ -1,0 +1,6 @@
+my_list = ['dog', 'cat']
+my_list[1] = 'ferret'
+print(my_list)
+
+my_tuple = ('dog', 'cat')
+print(my_tuple)

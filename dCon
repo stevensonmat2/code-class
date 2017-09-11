@@ -1,0 +1,3 @@
+distance = input("Distance:")
+
+unit = input("Unit of Measure")
